@@ -25,6 +25,10 @@
     revisoes: Array<string>
   }
 
+  type WithReadonly = { 
+    readonly a: string
+  }
+
   
 
 }
